@@ -38,13 +38,14 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   h3 {
+    color: #ffffff;
     font-size: 1.5em;
     margin-bottom: 0;
   }
 
   h3,
   h3 a {
-    color: #454545;
+    color: #ffffff;
   }
 
   p {
@@ -465,7 +466,9 @@ http://www.templatemo.com/tm-515-eatery
   -----------------------------------------*/
 
   #team {
-    background: #f9f9f9;
+    background: #3a3939;
+    padding-top: 20px;
+    padding-bottom: 0;
   }
 
   .team-thumb {
@@ -548,6 +551,7 @@ http://www.templatemo.com/tm-515-eatery
 
   #menu {
     padding-bottom: 0;
+    padding-top: 15px;
     background-color: #292929;
   }
 
